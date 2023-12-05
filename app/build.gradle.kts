@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.example.examen1pmdm"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.examen1pmdm"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
